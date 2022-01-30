@@ -2,6 +2,8 @@
   
 このプログラムはpico-sdk用ですpico-sdkを使ってビルドしてください。
 ビルドするにはyama_2_GFX、print_GFX_ILI9341が必要になります。  
+https://github.com/yamayamaru/yama_2_GFX  
+https://github.com/yamayamaru/print_GFX_ILI9341  
   
 CMakeLists.txt  
 random_raspberry_64px.cpp
