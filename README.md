@@ -9,6 +9,7 @@ https://github.com/yamayamaru/yama_2_GFX
   
 print_GFX_ILI9341はMicroPython用のライブラリであるmicropython-ili9341を参考にして作成しました  
 https://github.com/jeffmer/micropython-ili9341  
+文字の画面スクロールの機能は実装してません。  
   
 print_GFX_ILI9341はyama_2_GFX_ILI9341を継承していて直接ILI9341に文字を描画するためのライブラリです。  
   
