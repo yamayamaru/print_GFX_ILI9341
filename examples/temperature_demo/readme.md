@@ -6,7 +6,7 @@ https://github.com/yamayamaru/yama_2_GFX
 https://github.com/yamayamaru/print_GFX_ILI9341  
   
 CMakeLists.txt  
-temperature_demo.cpp 
+temperature_demo.cpp  
 font_class.h  
 glcdfont.h  
 glcdfont_tt14.h  
