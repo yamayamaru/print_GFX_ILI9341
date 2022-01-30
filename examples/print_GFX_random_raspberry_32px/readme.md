@@ -6,7 +6,7 @@ https://github.com/yamayamaru/yama_2_GFX
 https://github.com/yamayamaru/print_GFX_ILI9341  
   
 CMakeLists.txt  
-random_raspberry_32px.cpp
+random_raspberry_32px.cpp  
 font_class.h  
 glcdfont.h  
 glcdfont_tt14.h  
