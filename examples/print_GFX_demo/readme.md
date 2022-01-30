@@ -25,7 +25,7 @@ yama_2_GFX.cpp
 CMakeLists.txtでpico-sdkのprintfの出力がUART0になっています。  
 USBシリアルに出力したい場合はCMakeLists.txtの最後の方の3行を下記のように変更してください。  
   
-    pico_enable_stdio_usb(mandelbrot_set 1)
-    pico_enable_stdio_uart(mandelbrot_set 0)
+    pico_enable_stdio_usb(print_GFX_demo 1)
+    pico_enable_stdio_uart(print_GFX_demo 0)
     
-    pico_add_extra_outputs(mandelbrot_set)
+    pico_add_extra_outputs(print_GFX_demo)
