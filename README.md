@@ -5,7 +5,7 @@ print_GFX_ILI9341を使うためにはyama_2_GFXが必要になります。
 (yama_2_GFX Version 0.3が必要)  
 https://github.com/yamayamaru/yama_2_GFX  
 プログラム全体がC++で書かれていてC++用のライブラリになります。   
-表示できる文字はASCIIコードの英数字、記号のみです。
+表示できる文字はASCIIコードの英数字、記号のみです。  
 文字の画面スクロールの機能は実装してません。  
   
 print_GFX_ILI9341はMicroPython用のライブラリであるmicropython-ili9341を参考にして作成しました  
