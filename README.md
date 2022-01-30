@@ -3,7 +3,8 @@
 print_GFX_ILI9341はRaspberry Pi PicoのC/C++開発ツールのpico-sdk用のグラフィックスライブラリであるyama_2_GFXに簡易的な文字表示機能を付け加えるライブラリです。  
 print_GFX_ILI9341を使うためにはyama_2_GFXが必要になります。  
 https://github.com/yamayamaru/yama_2_GFX  
-プログラム全体がC++で書かれていてC++用のライブラリになります。  
+プログラム全体がC++で書かれていてC++用のライブラリになります。 
+表示できる文字はASCIIコードの英数字、記号のみです。
   
 print_GFX_ILI9341はMicroPython用のライブラリであるmicropython-ili9341を参考にして作成しました  
 https://github.com/jeffmer/micropython-ili9341  
