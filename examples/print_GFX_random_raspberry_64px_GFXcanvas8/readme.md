@@ -2,7 +2,7 @@
   
 このプログラムはpico-sdk用ですpico-sdkを使ってビルドしてください。
 ビルドするにはyama_2_GFX、print_GFX_ILI9341が必要になります。  
-(yama_2_GFXは0.3.1以上が必要です)
+(yama_2_GFXは0.3.1以上が必要です)  
 https://github.com/yamayamaru/yama_2_GFX  
 https://github.com/yamayamaru/print_GFX_ILI9341  
   
